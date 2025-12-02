@@ -1,21 +1,101 @@
-MIT License
 
-Copyright (c) 2025 rytora-ai
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## ⚖️ **2. `LICENSE.md` – Licença Proprietária RYTORA (SaaS Proprietário)**  
+### Ideal para produtos pagos e uso comercial fechado  
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+```markdown
+# RYTORA TONE AI – LICENSE AGREEMENT
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+**Copyright © 2025 Rytora – AI Technology & Solutions Ltda**  
+All rights reserved.
+
+---
+
+## 1. License Grant
+
+Rytora grants the licensee (the “User”) a **non-exclusive, non-transferable, revocable license** to use **Rytora Tone AI** under the conditions described below.
+
+This software and its components are provided **as a SaaS solution** (Software as a Service), licensed per user or organization under paid subscription plans.
+
+---
+
+## 2. Usage Rights
+
+- The User may install and use the software on devices authorized under their subscription plan.
+- The User may not redistribute, resell, sublicense, or modify the software without written authorization from Rytora.
+- The software may require online license verification and periodic authentication.
+- Offline operation is permitted for limited periods with cached credentials.
+
+---
+
+## 3. Ownership
+
+All intellectual property rights, including software source code, AI models, designs, logos, documentation, and related assets, are the exclusive property of **Rytora – AI Technology & Solutions Ltda**.
+
+No ownership rights are transferred to the User.
+
+---
+
+## 4. Restrictions
+
+The User is prohibited from:
+- Reverse engineering, decompiling, or attempting to extract the AI model or Neural Engine (NAM implementation).  
+- Circumventing or removing license verification mechanisms.  
+- Using the software for unlawful or competitive purposes.  
+- Sharing, cloning, or reselling models or presets derived from Rytora Tone AI without a partnership or reseller agreement.
+
+---
+
+## 5. Liability Disclaimer
+
+Rytora provides this software “AS IS,” without warranties of any kind, expressed or implied.  
+The User assumes full responsibility for its use, including configurations, integrations, and third-party hardware compatibility.
+
+Rytora shall not be liable for:
+- Loss of data, revenue, or opportunity.  
+- Damage to equipment or hearing caused by misuse or incorrect configuration.  
+- Issues resulting from modified firmware or third-party hardware.
+
+---
+
+## 6. Termination
+
+Rytora reserves the right to suspend or terminate access if:
+- The license is used in violation of these terms.  
+- Payment obligations are not met.  
+- Unauthorized redistribution or tampering is detected.
+
+Upon termination, the User must uninstall and cease all use of the software immediately.
+
+---
+
+## 7. Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws of **Brazil (Federative Republic of Brazil)**, with exclusive jurisdiction in the courts of **Rio de Janeiro**.
+
+---
+
+## 8. Contact
+
+**Rytora – AI Technology & Solutions Ltda**  
+Rua Bom Jesus, 212
+Juveve, Curitiba - PR  
+📧 contact@rytora.ai  
+🌐 https://rytora.ai
+
+---
+
+## 9. Trademark Notice
+
+“Rytora”, “Rytora Tone AI”, and related logos are registered trademarks of Rytora.  
+All other product names are trademarks of their respective owners.
+
+---
+
+## 10. Final Clause
+
+Use of this software constitutes full acceptance of this License Agreement.  
+Unauthorized use, redistribution, or modification constitutes a violation of Brazilian and international copyright law.
+
+© 2025 Rytora – All rights reserved.
